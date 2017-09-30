@@ -1,0 +1,7 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+AKNZFB+Emmentaler-18                 Type 1C           Custom           yes yes no      14  0
+IINTHY+Emmentaler-20                 Type 1C           Custom           yes yes yes      8  0
+RAAXYG+Emmentaler-Brace              Type 1C           Custom           yes yes no      16  0
+RDUTAJ+TeXGyreSchola-Bold            Type 1C           WinAnsi          yes yes no      10  0
+GBHPNS+TeXGyreSchola-Regular         Type 1C           WinAnsi          yes yes no      12  0

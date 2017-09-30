@@ -1,0 +1,4 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+RWBQIV+Emmentaler-20                 Type 1C           Custom           yes yes yes      8  0
+HTRWDJ+TeXGyreSchola-Bold            Type 1C           WinAnsi          yes yes no      10  0
