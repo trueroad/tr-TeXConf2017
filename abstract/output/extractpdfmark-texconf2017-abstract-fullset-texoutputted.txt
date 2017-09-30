@@ -1,0 +1,24 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+QFEWXC+LibertinusSerif               CID Type 0C       Identity-H       yes yes yes    107  0
+YQTKPD+SourceHanSerif-Regular        CID Type 0C       Identity-H       yes yes yes    108  0
+FMIYFM+LibertinusSans                CID Type 0C       Identity-H       yes yes yes    109  0
+ZWJTCF+SourceHanSans-Normal          CID Type 0C       Identity-H       yes yes yes    110  0
+IXGHPQ+SourceCodePro-Regular         CID Type 0C       Identity-H       yes yes yes    145  0
+TeXGyreSchola-Bold                   Type 1C           WinAnsi          yes no  no     177  0
+Emmentaler-20                        Type 1C           Custom           yes no  no     178  0
+Emmentaler-20                        Type 1C           Custom           yes no  no     179  0
+Emmentaler-20                        Type 1C           Custom           yes no  no     180  0
+Emmentaler-Brace                     Type 1C           Custom           yes no  no     269  0
+Emmentaler-Brace                     Type 1C           Custom           yes no  no     270  0
+Emmentaler-Brace                     Type 1C           Custom           yes no  no     271  0
+Emmentaler-18                        Type 1C           Custom           yes no  no     272  0
+Emmentaler-20                        Type 1C           Custom           yes no  no     273  0
+Emmentaler-20                        Type 1C           Custom           yes no  no     274  0
+Emmentaler-20                        Type 1C           Custom           yes no  yes    275  0
+TeXGyreSchola-Bold                   Type 1C           WinAnsi          yes no  no     276  0
+TeXGyreSchola-Regular                Type 1C           WinAnsi          yes no  no     277  0
+TeXGyreSchola-Bold                   Type 1C           WinAnsi          yes no  no     345  0
+Emmentaler-20                        Type 1C           Custom           yes no  no     346  0
+Emmentaler-20                        Type 1C           Custom           yes no  no     347  0
+Emmentaler-20                        Type 1C           Custom           yes no  yes    348  0
