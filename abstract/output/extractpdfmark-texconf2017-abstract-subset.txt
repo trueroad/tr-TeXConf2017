@@ -1,0 +1,16 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+QFEWXC+LibertinusSerif               CID Type 0C       Identity-H       yes yes yes    107  0
+YQTKPD+SourceHanSerif-Regular        CID Type 0C       Identity-H       yes yes yes    108  0
+FMIYFM+LibertinusSans                CID Type 0C       Identity-H       yes yes yes    109  0
+ZWJTCF+SourceHanSans-Normal          CID Type 0C       Identity-H       yes yes yes    110  0
+IXGHPQ+SourceCodePro-Regular         CID Type 0C       Identity-H       yes yes yes    145  0
+AUVQXI+Emmentaler-20                 Type 1C           Custom           yes yes no     177  0
+RDUTAJ+TeXGyreSchola-Bold            Type 1C           WinAnsi          yes yes no     178  0
+AKNZFB+Emmentaler-18                 Type 1C           Custom           yes yes no     261  0
+IINTHY+Emmentaler-20                 Type 1C           Custom           yes yes yes    262  0
+RAAXYG+Emmentaler-Brace              Type 1C           Custom           yes yes no     263  0
+RDUTAJ+TeXGyreSchola-Bold            Type 1C           WinAnsi          yes yes no     264  0
+GBHPNS+TeXGyreSchola-Regular         Type 1C           WinAnsi          yes yes no     265  0
+RWBQIV+Emmentaler-20                 Type 1C           Custom           yes yes yes    321  0
+HTRWDJ+TeXGyreSchola-Bold            Type 1C           WinAnsi          yes yes no     322  0
