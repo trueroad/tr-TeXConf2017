@@ -5,5 +5,9 @@
 *.aux
 *.log
 *.out
+*.toc
+*.snm
+*.nav
+*.vrb
 *.fls
 *.fdb_latexmk
