@@ -1,0 +1,24 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+LCFWZK+LibertinusSans-Bold           CID Type 0C       Identity-H       yes yes yes     97  0
+IAWMSI+SourceHanSans-Bold            CID Type 0C       Identity-H       yes yes yes     98  0
+TNDKXO+SourceHanSans-Normal          CID Type 0C       Identity-H       yes yes yes     99  0
+LQQCEO+SourceCodePro-Regular         CID Type 0C       Identity-H       yes yes yes    100  0
+WJDBRT+LibertinusSans                CID Type 0C       Identity-H       yes yes yes    101  0
+TeXGyreSchola-Bold                   Type 1            WinAnsi          no  no  no     301  0
+Emmentaler-20                        Type 1            Custom           no  no  no     302  0
+Emmentaler-20                        Type 1            Custom           no  no  no     303  0
+Emmentaler-20                        Type 1            Custom           no  no  no     304  0
+TeXGyreSchola-Bold                   Type 1            WinAnsi          no  no  no     570  0
+Emmentaler-20                        Type 1            Custom           no  no  no     571  0
+Emmentaler-20                        Type 1            Custom           no  no  no     572  0
+Emmentaler-20                        Type 1            Custom           no  no  yes    573  0
+Emmentaler-Brace                     Type 1            Custom           no  no  no     594  0
+Emmentaler-Brace                     Type 1            Custom           no  no  no     595  0
+Emmentaler-Brace                     Type 1            Custom           no  no  no     596  0
+Emmentaler-18                        Type 1            Custom           no  no  no     597  0
+Emmentaler-20                        Type 1            Custom           no  no  no     598  0
+Emmentaler-20                        Type 1            Custom           no  no  no     599  0
+Emmentaler-20                        Type 1            Custom           no  no  yes    600  0
+TeXGyreSchola-Bold                   Type 1            WinAnsi          no  no  no     601  0
+TeXGyreSchola-Regular                Type 1            WinAnsi          no  no  no     602  0
