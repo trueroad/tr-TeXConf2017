@@ -5,9 +5,19 @@
 「Extract PDFmarkによるPDFファイルサイズ削減」
 関連資料です。
 
-## 公開用アブストラクト
+---
 
-[abstract/](./abstract/)以下にあります。
+* [アブストラクト](#アブストラクト)
+* [発表資料](#発表資料)
+
+---
+
+## アブストラクト
+
+正式な公開版のファイルは [TeXConf 2017](https://texconf2017.tumblr.com/)
+からダウンロードしてください。
+
+関連ファイルは[abstract/](./abstract/)以下にあります。
 
 ### ソースファイル
 
@@ -205,6 +215,12 @@
 
         - [extractpdfmark-texconf2017-abstract-fullset.pdfmark.ps
 ](./abstract/output/extractpdfmark-texconf2017-abstract-fullset.pdfmark.ps)
+
+---
+
+## 発表資料
+
+今後公開予定です。しばらくお待ちください。
 
 ## License
 
