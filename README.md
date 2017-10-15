@@ -220,7 +220,11 @@
 
 ## 発表資料
 
-今後公開予定です。しばらくお待ちください。
+[SlideShare](https://www.slideshare.net/trueroad_jp/extract-pdfmarkpdf)
+にあります。
+
+ソースファイルや中間ファイルなどは
+[slide/](./slide/)以下にあります。
 
 ## License
 
